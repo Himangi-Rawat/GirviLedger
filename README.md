@@ -27,6 +27,8 @@ The goal of GirviLedger is to provide a **lightweight, offline-first digital led
 - **Storage:** Browser localStorage  
 - **Export:** XLSX.js for Excel file generation  
 
+## Forked from github.com/Maaahive
+
 ## 📦 Installation & Usage  
 1. Clone the repository:  
    ```bash
